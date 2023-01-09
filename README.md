@@ -31,7 +31,9 @@ Objetivos Especificos
 
 2. MARCO TEORICO
 
+[![1.png](https://i.postimg.cc/yxWHkdcJ/1.png)](https://postimg.cc/ZvkgQJfZ)
 
+[![2.png](https://i.postimg.cc/WzKPrvw5/2.png)](https://postimg.cc/7Jgc8jcz)
 
 3.Explicación y Resolución de Ejercicios
 
